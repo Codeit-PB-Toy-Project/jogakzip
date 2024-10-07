@@ -39,7 +39,6 @@ jogakzip/
 │   │   │   ├── comment-controller.js
 │   │   │   ├── comment-route.js
 │   │   ├── images/
-│   │   │   ├── image-model.js
 │   │   │   ├── image-service.js
 │   │   │   ├── image-controller.js
 │   │   │   ├── image-route.js
