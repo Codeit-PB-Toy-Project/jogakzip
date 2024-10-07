@@ -24,7 +24,7 @@ main
 #### 작업 순서
 1. 기능별 이슈를 만들고 여기서 feature 브랜치를 생성 후 작업
 2. PR → develop 브랜치에 merge
-3. 최종 완성 코드를 main 브랜치에 push
+3. 최종 완성 코드를 main 브랜치에 merge
 
 #### Commit Message
 ```
