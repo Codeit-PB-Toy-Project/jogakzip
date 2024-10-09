@@ -65,6 +65,7 @@ JavaScript, Node.js, express, MongoDB
 
 ## 폴더 구조
 (추후 수정)
+- 도메인 별로 route-controller-service-model
 ```
 jogakzip/
 ├── src/
