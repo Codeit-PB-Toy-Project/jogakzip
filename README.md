@@ -10,7 +10,7 @@ main
   |
   |------ develop
           |
-          |------ feature/기능/#이슈번호
+          |------ #이슈번호/feature/기능   ex) #1/feat/create-post
 
 ```
 
