@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # jogakzip
 조각집 Backend repository
 
@@ -104,3 +105,6 @@ jogakzip/
 ```
 
 ## 배포
+=======
+# jogakzip
+>>>>>>> 0d90292519ae9a613ec95c08fabfd5677eacb940
