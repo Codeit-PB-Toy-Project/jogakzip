@@ -23,6 +23,7 @@ app.use(express.urlencoded({ extended: true}));
 /* 라우터 설정 */
 // 게시글
 app.use('/api', require('./src/domain/posts/post-route'));
+app.use('/api', require('./src/domain/comments/comment-route'));
 
 // 400 처리 미들웨어
 app.use((req, res) => {
